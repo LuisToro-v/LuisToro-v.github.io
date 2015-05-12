@@ -1,5 +1,8 @@
 #bear {
     height:200px;
     width:200px
-    position:center;
+}
+
+header {
+    text-align:center;
 }
